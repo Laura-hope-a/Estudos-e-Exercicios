@@ -1,0 +1,31 @@
+body{
+background-color: rgb(244, 232, 250);
+}
+h1{
+text-align: center;
+}
+li{
+list-style: none;
+margin:3px;
+}
+.concluida{
+text-decoration:line-through;
+color: #7d7c7c;
+
+
+}
+button{
+margin:8px;
+color:red;
+padding: 5px;
+}
+#adicionar{
+color:black;
+
+}
+.excluir{
+color:rgb(110, 3, 3);
+background-color:pink;
+border-radius: 9px;
+}
+

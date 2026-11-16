@@ -1,0 +1,15 @@
+body{
+background-color:rgb(247, 248, 248);
+}
+#numero{
+text-align: center;
+font-size:50px;
+}
+#botoes{
+display:flex;
+justify-content: center;
+gap:10px;
+}
+button{
+border-radius: 6px;
+}
